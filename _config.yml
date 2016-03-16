@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            a lab
+tagline:          ' '
+description:      'Experiments in computer science, machine learning and biology by <a href="https://twitter.com/smolkmo" target="_blank">@smolkmo</a>.'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Moritz Smolka'
+  url:            https://twitter.com/smolkmo
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/smolkmo
